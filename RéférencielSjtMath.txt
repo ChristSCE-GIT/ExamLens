@@ -1,0 +1,115 @@
+Référentiel ExamLens — V0.1
+1. Suites
+Notion	Mots-clés / expressions
+Suite arithmétique	suite arithmétique, raison, terme suivant, différence constante
+Suite géométrique	suite géométrique, raison, quotient constant
+Suite définie explicitement	u_n =, terme général, expression de u_n
+Suite définie par récurrence	u_{n+1}, u(n+1), relation de récurrence, définie par récurrence
+Monotonie d'une suite	suite croissante, suite décroissante, monotone, variation de la suite
+Limite d'une suite	limite de la suite, converge, convergence, tend vers
+Raisonnement par récurrence	raisonnement par récurrence, initialisation, hérédité, hypothèse de récurrence
+Somme de termes	somme, somme des termes, somme des premiers termes
+________________________________________
+2. Limites et continuité
+Notion	Mots-clés / expressions
+Limite d'une fonction	limite, lim f, tend vers, au voisinage de
+Limite en l'infini	x tend vers +∞, x tend vers -∞, à l'infini
+Limite en un réel	x tend vers a, au voisinage de a
+Forme indéterminée	forme indéterminée, ∞/∞, 0/0
+Continuité	continue, continuité, fonction continue
+Théorème des valeurs intermédiaires	valeurs intermédiaires, TVI, théorème des valeurs intermédiaires
+Existence d'une solution	admet une solution, existence d'une solution, unique solution
+________________________________________
+3. Dérivabilité et convexité
+Notion	Mots-clés / expressions
+Dérivée	dérivée, dériver, f', fonction dérivée
+Dérivabilité	dérivable, dérivabilité
+Tableau de variations	variations, tableau de variations, croissante, décroissante
+Extremum	maximum, minimum, extremum, point critique
+Dérivée seconde	dérivée seconde, f''
+Convexité	convexe, convexité
+Concavité	concave, concavité
+Point d'inflexion	point d'inflexion, changement de convexité
+________________________________________
+4. Exponentielle et logarithme
+Notion	Mots-clés / expressions
+Fonction exponentielle	exponentielle, exp, e^x
+Propriétés exponentielles	propriétés de l'exponentielle, e^(a+b), e^a × e^b
+Équation exponentielle	équation exponentielle
+Fonction logarithme	logarithme, ln, logarithme népérien
+Propriétés du logarithme	ln(ab), ln(a/b), ln(a^n)
+Équation logarithmique	équation logarithmique, équation avec ln
+Limite avec exponentielle	limite de exp, limite exponentielle
+Limite avec logarithme	limite de ln, limite logarithme
+________________________________________
+5. Trigonométrie
+Notion	Mots-clés / expressions
+Fonction sinus	sinus, sin, fonction sinus
+Fonction cosinus	cosinus, cos, fonction cosinus
+Équation trigonométrique	équation trigonométrique, équation trigonométrique
+Dérivée sinus	dérivée de sinus, dérivée de sin
+Dérivée cosinus	dérivée de cosinus, dérivée de cos
+Périodicité	périodique, période
+Cercle trigonométrique	cercle trigonométrique
+________________________________________
+6. Primitives et équations différentielles
+Notion	Mots-clés / expressions
+Primitive	primitive, primitives, fonction primitive
+Recherche d'une primitive	déterminer une primitive, trouver une primitive
+Équation différentielle	équation différentielle, équation différentielle
+Résolution d'une équation différentielle	résoudre, solution de l'équation différentielle
+Condition initiale	condition initiale, solution vérifiant
+________________________________________
+7. Calcul intégral
+Notion	Mots-clés / expressions
+Intégrale	intégrale, ∫, intégrer
+Calcul d'intégrale	calculer l'intégrale, valeur de l'intégrale
+Intégrale définie	intégrale de a à b
+Aire sous une courbe	aire, aire sous la courbe, aire comprise entre
+Primitive et intégrale	primitive, théorème fondamental, fonction définie par une intégrale
+Intégration par parties	intégration par parties
+Valeur moyenne	valeur moyenne
+Volume	volume, solide de révolution
+Méthode des trapèzes	méthode des trapèzes, trapèzes, approximation de l'intégrale
+________________________________________
+8. Dénombrement
+Notion	Mots-clés / expressions
+Dénombrement	dénombrement, compter le nombre de
+Factorielle	factorielle, n!
+Permutations	permutation
+Combinaisons	combinaison, choisir, C(n,p)
+Arrangements	arrangement
+Cardinal	cardinal, nombre d'éléments
+Principe multiplicatif	principe multiplicatif, règle du produit
+________________________________________
+9. Probabilités
+Notion	Mots-clés / expressions
+Probabilité	probabilité, événement, issue
+Probabilité conditionnelle	probabilité conditionnelle, sachant que, `P(A
+Indépendance	événements indépendants, indépendance
+Arbre pondéré	arbre pondéré, arbre de probabilités
+Loi binomiale	loi binomiale, binomiale, B(n,p)
+Schéma de Bernoulli	épreuve de Bernoulli, schéma de Bernoulli
+Variable aléatoire	variable aléatoire, X prend les valeurs
+Loi de probabilité	loi de probabilité, distribution
+Espérance	espérance, E(X)
+Variance	variance, V(X)
+Écart-type	écart-type, σ
+Somme de variables aléatoires	somme de variables aléatoires
+Concentration	concentration, inégalité de concentration
+Loi des grands nombres	loi des grands nombres, LGN
+________________________________________
+10. Géométrie dans l'espace
+Notion	Mots-clés / expressions
+Vecteurs	vecteur, vecteurs, coordonnées d'un vecteur
+Droite de l'espace	droite, droite de l'espace
+Plan	plan, plan de l'espace
+Représentation paramétrique	représentation paramétrique, équations paramétriques
+Équation cartésienne	équation cartésienne, équation du plan
+Produit scalaire	produit scalaire
+Orthogonalité	orthogonal, orthogonalité, perpendiculaire
+Parallélisme	parallèle, parallélisme
+Intersection	intersection, point d'intersection
+Distance	distance, distance entre
+Projection orthogonale	projection orthogonale
+Coplanarité	coplanaires, coplanarité
