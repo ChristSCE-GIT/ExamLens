@@ -30,3 +30,26 @@ L’outil :
 
 ## Exemple de sortie
 Console :
+======PDF analysé : sujet1.pdf======
+Notion : Probabilités ----> 3/5 mot-clés trouvés
+Notion : Fonctions ----> 2/4 mot-clés trouvés
+
+====== CLASSEMENT DES NOTIONS ======
+
+Notion : 1. Probabilités ----> 8/12 ----> Fréquence : 66.67%
+Notion : 2. Fonctions ----> 6/12 ----> Fréquence : 50.00%
+
+Code
+
+Graphique : un histogramme horizontal des dix notions les plus fréquentes.
+
+---
+
+## Installation
+1. Cloner le dépôt :
+   ```bash
+   git clone https://github.com/ChristSCE-GIT/ExamLens.git
+   cd ExamLens
+2. Installer les dépendances
+   pip install -r requirements.txt
+
