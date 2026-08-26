@@ -50,6 +50,7 @@ Graphique : un histogramme horizontal des dix notions les plus fréquentes.
    ```bash
    git clone https://github.com/ChristSCE-GIT/ExamLens.git
    cd ExamLens
-2. Installer les dépendances
-   pip install -r requirements.txt
+2. Installer la dépendance
+   '''bash
+      pip install -r requirements.txt
 
